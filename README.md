@@ -1,4 +1,4 @@
-## Simple Solar System Simulation
+## Simple Solar System Simulation (in python3)
 
 (*June 2022*)
 
@@ -13,3 +13,7 @@ Change Zoom: Scroll in/out
 Pause Simulation: `p`
 
 Quit Simulation: `q`
+
+**Dependencies**
+
+Requires: `pygame`, `numpy`
